@@ -1,0 +1,18 @@
+{
+  "prefix": ".",
+  "ownerNumber": "6281234567890",
+  "ownerLid": "",
+  "ownerName": "Bot Owner",
+  "botName": "Bot Kelas",
+  "pairingNumber": "",
+  "debugLogging": true,
+  "loginMethod": "qr",
+  "mongoUri": "mongodb+srv://username:password@kelas105.gxd811d.mongodb.net/?appName=kelas105",
+  "mongoDbName": "kelas105",
+  "mongoCollection": "jadwal",
+  "mongoTasksCollection": "tugas",
+  "whitelistGroupJids": [
+    "120363405752517651@g.us"
+  ],
+  "admins": []
+}
